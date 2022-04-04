@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "82509c02b363412d9a1cddce3644ae2b",
+  "assets/AssetManifest.json": "f93e9f29342eb223ad178e364c2ba988",
 "assets/assets/assets/images/actionPoint.png": "bd6657f8c9ec574d839d374e9a190bcd",
 "assets/assets/assets/images/axe0.png": "abdea81f6e3fd999580351479603a62a",
 "assets/assets/assets/images/axe1.png": "ab16b9c14f2fa21b9b236f7bc24da27b",
@@ -13,7 +13,8 @@ const RESOURCES = {
 "assets/assets/assets/images/circleOutline.png": "2f607d73928d36b4e000b5b5b91b6a89",
 "assets/assets/assets/images/knight0.png": "87a4ad31a92d301e431eb9ce67fe2021",
 "assets/assets/assets/images/knight1.png": "906a4e4e84aa3b2e0fdb0d8a57d5a675",
-"assets/assets/assets/images/movement.png": "1d38fd6884d12fedd97a59e8dc8279a5",
+"assets/assets/assets/images/manaTile.png": "54359d65849ece0a450ad997aabfee03",
+"assets/assets/assets/images/movement.png": "d23f7abeaf25d83dd4c513687ad0990c",
 "assets/assets/assets/images/movementPoint.png": "ab193d544401e4991fae0e27b838d373",
 "assets/assets/assets/images/rangeOutline.png": "007c66bad8013b26171ecf4edc37b9e5",
 "assets/assets/assets/images/spear0.png": "dbdbcd86fcfe1e684ba600f2ad55595e",
@@ -56,9 +57,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e155340e8cdbc3d74f059d03bfa38c62",
-"/": "e155340e8cdbc3d74f059d03bfa38c62",
-"main.dart.js": "ce944dc7548b346143683cc2121218f5",
+"index.html": "0fc97e921211c2199cd34e5d2e3dc2a1",
+"/": "0fc97e921211c2199cd34e5d2e3dc2a1",
+"main.dart.js": "ed5402d2e2fb87d24c84d3cd6e65eef9",
 "manifest.json": "83d533e5ab22a8928a684b90a19bb48d",
 "version.json": "389a6e6e6f34312743ca5f36467c84b5"
 };
